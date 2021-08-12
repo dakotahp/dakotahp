@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
+### Recently Starred Repos
+{{range recentStars 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
+{{end}}
+
 ### GitHub stats
 ![my github stats](https://github-readme-stats.vercel.app/api?username=dakotahp&count_private=true&hide_title=true)
 
