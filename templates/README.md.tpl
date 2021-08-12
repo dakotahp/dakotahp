@@ -12,16 +12,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My recent projects
+### Recent Projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-### Recently Starred Repos
+### Recent 🌟
 {{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{end}}
 
-### GitHub stats
+### GitHub Stats
 ![my github stats](https://github-readme-stats.vercel.app/api?username=dakotahp&count_private=true&hide_title=true)
-
