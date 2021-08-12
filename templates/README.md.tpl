@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 ### Recently Starred Repos
 {{range recentStars 10}}
-Name: {{.Repo.Name}}
-Description: {{.Repo.Description}}
-URL: {{.Repo.URL}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{end}}
 
 ### GitHub stats
