@@ -12,45 +12,25 @@
 
 ### Recently Starred Repos
 
-Name: stefanzweifel/git-auto-commit-action
-Description: Automatically Commit changed Files back to Github with Github Actions
-URL: https://github.com/stefanzweifel/git-auto-commit-action)
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to Github with Github Actions
 
-Name: pinry/pinry
-Description: The open-source core of Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.
-URL: https://github.com/pinry/pinry)
+- [pinry/pinry](https://github.com/pinry/pinry) - The open-source core of Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.
 
-Name: mikecao/umami
-Description: Umami is a simple, fast, website analytics alternative to Google Analytics.
-URL: https://github.com/mikecao/umami)
+- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 
-Name: docker/awesome-compose
-Description: Awesome Docker Compose samples
-URL: https://github.com/docker/awesome-compose)
+- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 
-Name: matt-harvey/git_curate
-Description: ✂️ Peruse and delete git branches ergonomically
-URL: https://github.com/matt-harvey/git_curate)
+- [matt-harvey/git_curate](https://github.com/matt-harvey/git_curate) - ✂️ Peruse and delete git branches ergonomically
 
-Name: awesome-selfhosted/awesome-selfhosted
-Description: A list of Free Software network services and web applications which can be hosted on your own servers
-URL: https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
-Name: JonathanWThom/agen
-Description: Generate shell aliases based on your most commonly entered commands.
-URL: https://github.com/JonathanWThom/agen)
+- [JonathanWThom/agen](https://github.com/JonathanWThom/agen) - Generate shell aliases based on your most commonly entered commands.
 
-Name: SimonBrazell/privacy-redirect
-Description: A simple web extension that redirects Twitter, YouTube, Instagram &amp; Google Maps requests to privacy friendly alternatives.
-URL: https://github.com/SimonBrazell/privacy-redirect)
+- [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram &amp; Google Maps requests to privacy friendly alternatives.
 
-Name: bastienwirtz/homer
-Description: A very simple static homepage for your server.
-URL: https://github.com/bastienwirtz/homer)
+- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 
-Name: freeCodeCamp/chapter
-Description: A self-hosted event management tool for nonprofits
-URL: https://github.com/freeCodeCamp/chapter)
+- [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter) - A self-hosted event management tool for nonprofits
 
 
 ### GitHub stats
