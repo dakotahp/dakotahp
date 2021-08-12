@@ -2,7 +2,7 @@
 
 
 
-### My recent projects
+### Recent Projects
 
 - [dakotahp/5-Star-CDA](https://github.com/dakotahp/5-Star-CDA) - Website for cleaning business.
 - [dakotahp/dakotahp.github.io](https://github.com/dakotahp/dakotahp.github.io) - GitHub profile site
@@ -10,7 +10,7 @@
 - [dakotahp/slack-status](https://github.com/dakotahp/slack-status) - Set your slack status quickly in the terminal
 - [dakotahp/Trello-PR-Linker](https://github.com/dakotahp/Trello-PR-Linker) - Web server that listens for GitHub PR Webhooks and attaches the link for a PR onto a Trello ticket.
 
-### Recently Starred Repos
+### Recent 🌟
 
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to Github with Github Actions
 
@@ -33,6 +33,5 @@
 - [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter) - A self-hosted event management tool for nonprofits
 
 
-### GitHub stats
+### GitHub Stats
 ![my github stats](https://github-readme-stats.vercel.app/api?username=dakotahp&count_private=true&hide_title=true)
-
