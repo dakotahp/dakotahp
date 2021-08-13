@@ -12,6 +12,8 @@
 
 ### Recent 🌟
 
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
+
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to Github with Github Actions
 
 - [pinry/pinry](https://github.com/pinry/pinry) - The open-source core of Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.
@@ -29,8 +31,6 @@
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram &amp; Google Maps requests to privacy friendly alternatives.
 
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
-
-- [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter) - A self-hosted event management tool for nonprofits
 
 
 ### GitHub Stats
