@@ -14,7 +14,7 @@
 
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 
-- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to Github with Github Actions
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
 
 - [pinry/pinry](https://github.com/pinry/pinry) - The open-source core of Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.
 
