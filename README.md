@@ -12,6 +12,8 @@
 
 ### Recent 🌟
 
+- [NX211/homer-icons](https://github.com/NX211/homer-icons) - 
+
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -29,8 +31,6 @@
 - [matt-harvey/git_curate](https://github.com/matt-harvey/git_curate) - ✂️ Peruse and delete git branches ergonomically
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-- [JonathanWThom/agen](https://github.com/JonathanWThom/agen) - Generate shell aliases based on your most commonly entered commands.
 
 
 ### GitHub Stats
