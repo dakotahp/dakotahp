@@ -12,6 +12,8 @@
 
 ### Recent 🌟
 
+- [thombaynes/dotfiles](https://github.com/thombaynes/dotfiles) - 💻macOS System Configuration with Fish, Package Control, VS Code, Repo management, Hammerspoon
+
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 
 - [NX211/homer-icons](https://github.com/NX211/homer-icons) - 
@@ -29,8 +31,6 @@
 - [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-
-- [matt-harvey/git_curate](https://github.com/matt-harvey/git_curate) - ✂️ Peruse and delete git branches ergonomically
 
 
 ### GitHub Stats
