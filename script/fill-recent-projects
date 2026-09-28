@@ -2,7 +2,7 @@
 set -euo pipefail
 
 user=dakotahp
-marker="<!-- recent-projects -->"
+marker="RECENT_PROJECTS_PLACEHOLDER"
 
 grep -qF "$marker" README.md || { echo "README.md has no $marker" >&2; exit 1; }
 
