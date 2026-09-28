@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 ### Recent Projects
-<!-- recent-projects -->
+RECENT_PROJECTS_PLACEHOLDER
 
 ### Recent 🌟
 {{range recentStars 10}}
