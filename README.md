@@ -4,33 +4,33 @@
 
 ### Recent Projects
 
+- [dakotahp/homebrew-tap](https://github.com/dakotahp/homebrew-tap) - Homebrew tap for dakotahp&#39;s tools
+- [dakotahp/getting-real-book-website-to-epub](https://github.com/dakotahp/getting-real-book-website-to-epub) - A web scraper with instructions for pulling down 37 Signals&#39; Getting Real book and converting to ePub.
+- [dakotahp/agency-website](https://github.com/dakotahp/agency-website) - 
+- [dakotahp/linkding-cleaner](https://github.com/dakotahp/linkding-cleaner) - Simple command-line app to remove any dead links from your Linkding instance.
 - [dakotahp/5-Star-CDA](https://github.com/dakotahp/5-Star-CDA) - Website for cleaning business.
-- [dakotahp/dakotahp.github.io](https://github.com/dakotahp/dakotahp.github.io) - GitHub profile site
-- [dakotahp/dakotahpena.studio](https://github.com/dakotahp/dakotahpena.studio) - My personal website.
-- [dakotahp/slack-status](https://github.com/dakotahp/slack-status) - Set your slack status quickly in the terminal
-- [dakotahp/Trello-PR-Linker](https://github.com/dakotahp/Trello-PR-Linker) - Web server that listens for GitHub PR Webhooks and attaches the link for a PR onto a Trello ticket.
 
 ### Recent 🌟
 
-- [thombaynes/dotfiles](https://github.com/thombaynes/dotfiles) - 💻macOS System Configuration with Fish, Package Control, VS Code, Repo management, Hammerspoon
+- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 
-- [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress
 
-- [NX211/homer-icons](https://github.com/NX211/homer-icons) - 
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models &amp; providers. One command to find what runs on your hardware.
 
-- [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
+- [samber/cc-caffeine](https://github.com/samber/cc-caffeine) - ☕️ Prevents your computer from sleeping while Claude Code works hard
 
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
+- [patrickjaja/claude-desktop-extra](https://github.com/patrickjaja/claude-desktop-extra) - Unofficial Linux packages for Claude Desktop AI assistant with automated updates.
 
-- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
+- [patrickjaja/claude-cowork-service](https://github.com/patrickjaja/claude-cowork-service) - 
 
-- [pinry/pinry](https://github.com/pinry/pinry) - The open-source core of Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.
+- [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server
 
-- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
+- [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
 
-- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+- [dcurtis/markdown-mark](https://github.com/dcurtis/markdown-mark) - Use this mark to identify Markdown.
 
 
 ### GitHub Stats
