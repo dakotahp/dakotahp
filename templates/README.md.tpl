@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 -->
 
 ### Recent Projects
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{if .Repo.Description}} - {{.Repo.Description}}{{end}}
-{{- end}}
+<!-- recent-projects -->
 
 ### Recent 🌟
 {{range recentStars 10}}

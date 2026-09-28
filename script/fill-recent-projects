@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+user=dakotahp
+marker="<!-- recent-projects -->"
+
+grep -qF "$marker" README.md || { echo "README.md has no $marker" >&2; exit 1; }
+
+list=$(gh api "users/$user/repos?type=owner&sort=pushed&direction=desc&per_page=10" --jq '
+  [.[] | select(.name != "'"$user"'")][:5][]
+  | "- [\(.name)](\(.html_url))" + (if .description then " - \(.description)" else "" end)')
+
+LIST="$list" MARKER="$marker" python3 - <<'PY'
+import os
+p = "README.md"
+s = open(p).read()
+open(p, "w").write(s.replace(os.environ["MARKER"], os.environ["LIST"]))
+PY
