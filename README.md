@@ -4,11 +4,11 @@
 
 ### Recent Projects
 
-- [dakotahp/homebrew-tap](https://github.com/dakotahp/homebrew-tap) - Homebrew tap for dakotahp&#39;s tools
-- [dakotahp/getting-real-book-website-to-epub](https://github.com/dakotahp/getting-real-book-website-to-epub) - A web scraper with instructions for pulling down 37 Signals&#39; Getting Real book and converting to ePub.
-- [dakotahp/agency-website](https://github.com/dakotahp/agency-website) - 
+- [dakotahp/dotfiles](https://github.com/dakotahp/dotfiles) - My dotfiles
 - [dakotahp/linkding-cleaner](https://github.com/dakotahp/linkding-cleaner) - Simple command-line app to remove any dead links from your Linkding instance.
-- [dakotahp/5-Star-CDA](https://github.com/dakotahp/5-Star-CDA) - Website for cleaning business.
+- [dakotahp/homebrew-tap](https://github.com/dakotahp/homebrew-tap) - Homebrew tap for dakotahp&#39;s tools
+- [dakotahp/dakotahpena.studio](https://github.com/dakotahp/dakotahpena.studio) - My personal website.
+- [al3xw/force-read-mode](https://github.com/al3xw/force-read-mode)
 
 ### Recent 🌟
 
