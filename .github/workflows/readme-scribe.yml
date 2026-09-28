@@ -23,6 +23,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
 
+      - run: script/fill-recent-projects
+        env:
+          GH_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+
       - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: Update generated README
