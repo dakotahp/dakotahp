@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 -->
 
 ### Recent Projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}){{if .Repo.Description}} - {{.Repo.Description}}{{end}}
 {{- end}}
 
 ### Recent 🌟
