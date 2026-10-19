@@ -3,13 +3,15 @@
 
 
 ### Recent Projects
-- [dotfiles](https://github.com/dakotahp/dotfiles) - My dotfiles
 - [crystal-cove](https://github.com/dakotahp/crystal-cove) - Cloud Obsidian Vault with native Sync, MCP tools, and sign-in. (Works locally, too)
-- [agentic-insomnia](https://github.com/dakotahp/agentic-insomnia) - Prevents your computer from sleeping while Claude Code, Codex, or OpenCode are operating.
-- [dakotahpena.studio](https://github.com/dakotahp/dakotahpena.studio) - My personal website.
+- [dotfiles](https://github.com/dakotahp/dotfiles) - My dotfiles
+- [linkding-cleaner](https://github.com/dakotahp/linkding-cleaner) - Simple command-line app to remove any dead links from your Linkding instance.
 - [homebrew-tap](https://github.com/dakotahp/homebrew-tap) - Homebrew tap for dakotahp's tools
+- [agentic-insomnia](https://github.com/dakotahp/agentic-insomnia) - Prevents your computer from sleeping while Claude Code, Codex, or OpenCode are operating.
 
 ### Recent 🌟
+
+- [bobby060/anylist-mcp](https://github.com/bobby060/anylist-mcp) - Unofficial MCP Server for Anylist
 
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 
@@ -28,8 +30,6 @@
 - [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server
 
 - [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
-
-- [dcurtis/markdown-mark](https://github.com/dcurtis/markdown-mark) - Use this mark to identify Markdown.
 
 
 ### GitHub Stats
