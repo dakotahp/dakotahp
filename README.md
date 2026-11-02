@@ -4,10 +4,10 @@
 
 ### Recent Projects
 - [crystal-cove](https://github.com/dakotahp/crystal-cove) - Cloud Obsidian Vault with native Sync, MCP tools, and sign-in. (Works locally, too)
-- [dotfiles](https://github.com/dakotahp/dotfiles) - My dotfiles
-- [homebrew-tap](https://github.com/dakotahp/homebrew-tap) - Homebrew tap for dakotahp's tools
-- [linkding-cleaner](https://github.com/dakotahp/linkding-cleaner) - Simple command-line app to remove any dead links from your Linkding instance.
+- [dakotahpena.dev](https://github.com/dakotahp/dakotahpena.dev) - My personal website.
 - [agentic-insomnia](https://github.com/dakotahp/agentic-insomnia) - Prevents your computer from sleeping while Claude Code, Codex, or OpenCode are operating.
+- [hype](https://github.com/dakotahp/hype) - Simple Markdown presentations with a visual slide editor
+- [omawrite](https://github.com/dakotahp/omawrite) - The essence of writing
 
 ### Recent 🌟
 
